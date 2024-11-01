@@ -1,0 +1,126 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#wsfl_dialog {width:500px; font-size:15px; font-weight:bold;}
+#wsfl_dialog p {font-size:15px; font-weight:bold;}
+.free_plugin {margin-bottom: 20px;}
+.paid_plugin {margin-bottom: 20px;}
+.paid_plugin h3 {border-bottom: 1px solid #ccc;padding-bottom: 20px;}
+.free_plugin h3 {padding-bottom: 20px;border-bottom: 1px solid #ccc;}
+div#wsfl_main_contain_ids {box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);margin-top: 30px;padding: 30px;width: 92%;}
+#wsfl_main_contain_ids fieldset.wsfl-global {border: 1px solid #ccc;padding: 0 2%;}
+#wsfl_main_contain_ids fieldset.wsfl-global legend {padding: 0 10px;}
+#wsfl_main_contain_ids fieldset.wsfl-global legend h2 {font-size: 24px;margin: 0;}
+#wsfl_main_contain_ids .wsfl-field-contain {margin: 30px 0;}
+#wsfl_main_contain_ids #wsfl_submit_plugin.button.button-primary {margin-right: 10px;}
+.wsfl-main-container #wsfl_plugin_form_id .submit input#wsfl_reset_plugin {background: #0085ba;border-color: #0073aa #006799 #006799;-webkit-box-shadow: 0 1px 0 #006799;box-shadow: 0 1px 0 #006799 !important;color: #fff;text-decoration: none;text-shadow: 0 -1px 1px #006799,1px 0 1px #006799,0 1px 1px #006799,-1px 0 1px #006799;padding: 0px 14px;vertical-align: baseline;display: inline-block;text-decoration: none;font-size: 13px;line-height: 26px;height: 28px;margin: 0;cursor: pointer;border-width: 1px;border-style: solid;-webkit-appearance: none;-webkit-border-radius: 3px;border-radius: 3px;white-space: nowrap;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+
+
+.free_plugin {
+    margin-bottom: 20px;
+}
+
+.paid_plugin {
+    margin-bottom: 20px;
+}
+
+.paid_plugin h3 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.free_plugin h3 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.plug-containter {
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.plug-containter .contain-section {
+    width: 25%;
+    display: inline-block;
+    margin-top: 30px;
+}
+.plug-containter .contain-section .contain-img {
+    width: 30%;
+    display: inline-block;
+}
+.plug-containter .contain-section .contain-title {
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.plug-containter .contain-section .contain-title a {
+    text-decoration: none;
+    line-height: 20px;
+    font-weight: bold;
+}
+.version_logo_img {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.woo_save_for_later_picture {
+    width: 49%;
+    display: inline-block;
+}
+.woo_save_for_later_content {
+    float: right;
+    width: 49%;
+    line-height: 30px;
+    top: 5%;
+    margin: 3% 0px 0px 0px;
+}
+
+
+.woo_save_for_later_picture_entry_content {
+    width: 80%;
+    margin-top: 3%;
+}
+
+.woo_save_for_later_content_second { 
+	float: left;
+    width: 49%;
+    line-height: 30px;
+    top: 5%;
+    margin: 3% 0px 0px 0px;
+    display: inline-block;
+}
+.woo_save_for_later_picture_second { 
+	width: 49%;
+    float: left;
+    margin: 0 0 0 14px;
+}
+
+input#wsfl_reset_plugin {
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}

@@ -1,0 +1,238 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-28 16:31+0530\n"
+"PO-Revision-Date: 2018-08-28 16:11+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: languages/woo-save-for-later-pro-de_DE.mo\n"
+"X-Poedit-SearchPath-2: languages/woo-save-for-later-pro-de_DE.po\n"
+"X-Poedit-SearchPath-3: languages/woo-save-for-later-pro-es_ES.mo\n"
+"X-Poedit-SearchPath-4: languages/woo-save-for-later-pro-es_ES.po\n"
+"X-Poedit-SearchPath-5: languages/woo-save-for-later-pro-fr_FR.mo\n"
+"X-Poedit-SearchPath-6: languages/woo-save-for-later-pro-fr_FR.po\n"
+"X-Poedit-SearchPath-7: languages/woo-save-for-later-pro-pl_PL.mo\n"
+"X-Poedit-SearchPath-8: languages/woo-save-for-later-pro-pl_PL.po\n"
+
+#: admin/class-woo-save-for-later-admin.php:286
+msgid "Save For Later Title"
+msgstr ""
+
+#: admin/class-woo-save-for-later-admin.php:290
+msgid "This label will display for all products in the cart page."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:16
+#: admin/partials/wsfl-pro-information-page.php:31
+msgid "Premium Version"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:23
+msgid "Important link"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:28
+msgid "Plugin documentation"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:32
+msgid "Support platform"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:36
+msgid "Suggest A Feature"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:40
+msgid "Changelog"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:48
+msgid "OUR POPULAR PLUGINS"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:53
+msgid "Advanced Flat Rate Shipping Method"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:57
+msgid "WooCommerce Conditional Product Fees"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:61
+msgid "Advance Menu Manager"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:65
+msgid "Woo Enhanced Ecommerce Analytics Integration"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:69
+msgid "Advanced Product Size Charts"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:73
+msgid "WooCommerce Blocker – Prevent Fake Orders"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:79
+#: admin/partials/header/plugin-sidebar.php:101
+msgid "VIEW ALL"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:85
+msgid "OUR POPULAR THEMES"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:89
+msgid "Appify – Multipurpose WordPress Theme"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:92
+msgid "Brand Agency – WordPress Theme for Agency"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:95
+msgid "Meraki - WordPress Theme for Resume"
+msgstr ""
+
+#: admin/partials/wsfl-pro-get-started-page.php:8
+#: admin/partials/wsfl-pro-information-page.php:11
+msgid ""
+"Be the first to get latest updates and exclusive content straight to your "
+"email inbox."
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:18
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:22
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:23
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:26
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:30
+msgid "Installed Version"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:34
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:35
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:35
+msgid " to view license and terms of use."
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:38
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:41
+msgid "Quick Start"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:42
+msgid "Guide Documentation"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:43
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:48
+msgid "Localization"
+msgstr ""
+
+#: admin/partials/wsfl-pro-information-page.php:49
+msgid "English, Spanish"
+msgstr ""
+
+#: includes/class-woo-save-for-later.php:220
+msgid "Settings"
+msgstr ""
+
+#: includes/class-woo-save-for-later.php:221
+msgid "Docs"
+msgstr ""
+
+#: includes/class-woo-save-for-later.php:222
+msgid "Support"
+msgstr ""
+
+#: public/class-woo-save-for-later-public.php:107
+msgid "Default - Save For Later"
+msgstr ""
+
+#: public/class-woo-save-for-later-public.php:138
+msgid "Save For Later"
+msgstr ""
+
+#: public/class-woo-save-for-later-public.php:154
+msgid "Continue Shopping"
+msgstr ""
+
+#: public/class-woo-save-for-later-public.php:154
+msgid "Cart successfully Saved."
+msgstr ""
+
+#: public/class-woo-save-for-later-public.php:161
+msgid "Save Cart"
+msgstr ""
+
+#: public/class-woo-save-for-later-public.php:173
+msgid "Restore Cart"
+msgstr ""
+
+#: public/class-woo-save-for-later-public.php:444
+msgid "View your shopping cart"
+msgstr ""
+
+#: public/template/wsfl-page-template.php:34
+msgid "Product Image"
+msgstr ""
+
+#: public/template/wsfl-page-template.php:35
+msgid "Product"
+msgstr ""
+
+#: public/template/wsfl-page-template.php:36
+msgid "Price"
+msgstr ""
+
+#: public/template/wsfl-page-template.php:37
+msgid "Quantity"
+msgstr ""
+
+#: public/template/wsfl-page-template.php:38
+msgid "Total"
+msgstr ""
+
+#: public/template/wsfl-page-template.php:39
+msgid "Add To Cart"
+msgstr ""
+
+#: public/template/wsfl-page-template.php:106
+msgid "There are no items saved for later!!!"
+msgstr ""
